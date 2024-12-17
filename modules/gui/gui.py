@@ -21,21 +21,6 @@ class GUI(QWidget):
     def initUI(self):
         layout = QVBoxLayout()
 
-        # Button Help
-        help_button = QPushButton("Aide")
-        help_button.setFixedSize(60,30)
-        help_button.setStyleSheet("""
-                                   QPushButton { 
-                                    color: black;
-                                    }
-                                    QPushButton:hover {
-                                    font-weight: bold;
-                                    }
-
-                                    """)
-        help_button.clicked.connect(self.open_help_window)
-        layout.addWidget(help_button)
-
         #Folder selection
         self.folder_label = QLabel("Aucun dossier sélectionné")
         self.folder_label.setStyleSheet("color: red;")
@@ -106,29 +91,6 @@ class GUI(QWidget):
         self.setLayout(layout)
         self.setWindowTitle('Outil de facturation TopSpin')
         self.setGeometry(600, 400, 600, 400)
-
-    def open_help_window(self):
-        help_dialog = QDialog(self)
-        help_dialog.setWindowTitle("Guide d'utilisation")
-        help_dialog.setGeometry(100, 100, 1000, 800)  
-
-        scroll_area = QScrollArea(help_dialog)
-        scroll_area.setWidgetResizable(True)
-        help_label = QLabel()
-        pixmap = QPixmap("ressources/guide_utilisation.png") 
-        if pixmap.isNull():
-            help_label.setText("Le guide d'utilisation n'a pas pu être chargé.")
-        else:
-            help_label.setPixmap(pixmap)
-            help_label.setAlignment(Qt.AlignCenter)
-            scroll_area.setWidget(help_label)
-            
-        layout = QVBoxLayout(help_dialog)
-        layout.addWidget(scroll_area)
-        help_dialog.setLayout(layout)
-
-        help_dialog.exec()
-
 
     def select_folders(self):
         dialog = QFileDialog(self, "Sélectionner au moins un dossier")
