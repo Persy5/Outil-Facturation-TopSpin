@@ -1,0 +1,16 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/201806-DPPC-19F-PA/1021/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-08-13 17:24:47.559 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <acquisition in progress>)
+(   2,<2018-08-14 10:16:24.703 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <convdta from       21 "201806-DPPC-19F-PA" "C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr"
+       data hash MD5: 3944
+       6B 5E F2 C7 F5 29 08 30 A5 7E 86 3D 62 95 DC FF>)
+##END=
+
+$$ hash MD5
+$$ 9E 2D C1 7B D1 30 77 F1 21 24 F5 FD 3A 37 F9 30

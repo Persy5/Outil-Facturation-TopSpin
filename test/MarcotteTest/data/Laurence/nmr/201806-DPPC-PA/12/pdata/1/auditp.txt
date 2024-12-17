@@ -1,0 +1,37 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Bruker/TopSpin3.2/Marcotte/data/Laurence/nmr/201806-DPPC-PA/12/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-07-06 11:56:20.126 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2018-07-06 11:55:23.525 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       B1 AA E6 01 9F 90 2B 1B DA B6 05 51 12 DB 67 D6
+       data hash MD5: 16K
+       D5 1F D2 56 D2 B5 BB 1E 56 FD 3F BB F9 EF B9 3A>)
+(   2,<2018-07-06 11:56:25.867 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 20 FT_mod = 6 PKNL = 1 PHC0 = -76.4 PHC1 = 0 SI = 8K 
+       data hash MD5: 8K
+       A8 86 EC 0F 5D DD 5F F8 42 FB 12 CC 86 EC B1 19>)
+(   3,<2018-07-10 09:55:32.749 -0400>,<nmrsu>,<AVIII400HD>,<dirdata>,<TopSpin 3.5.7>,
+      <wrpa from 1 11 "201806-DPPC-PA" "C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr"
+       data hash MD5: 8K
+       A8 86 EC 0F 5D DD 5F F8 42 FB 12 CC 86 EC B1 19>)
+(   4,<2018-07-10 09:56:09.222 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=45C
+       MAS 5kHz
+       31P HPDEC
+       
+       4mm rotor full of 78 mg of concentrated DPPC + 1H palmitic acid added
+       prepared by Laurence 10/07/2018TITLE_END
+       data hash MD5: 8K
+       A8 86 EC 0F 5D DD 5F F8 42 FB 12 CC 86 EC B1 19>)
+##END=
+
+$$ hash MD5
+$$ CF 35 B8 BC 02 7B 41 8B AE 01 E3 45 5B BB B9 D1

@@ -1,0 +1,48 @@
+
+Current Data Parameters
+NAME     201806-GhostsMarcotte2              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20180613              
+Time               7.12 h            
+INSTRUM        AVIII400              
+PROBHD   H12138-01_0002              
+PULPROG        hahnecho              
+TD                 5120              
+SOLVENT                              
+NS                18000              
+DS                    0              
+SWH          100000.000 Hz           
+FIDRES        39.062500 Hz           
+AQ            0.0256000 sec          
+RG                 2050              
+DW                5.000 usec         
+DE                 6.50 usec         
+TE                293.0 K            
+CNST31   1000000.0000000              
+D1           3.00000000 sec          
+D6           0.00003400 sec          
+L1                   40              
+TD0                   1              
+ZGOPTNS           -Ddec              
+SFO1        161.9351120 MHz          
+NUC1                31P              
+P1                 4.00 usec         
+P2                 8.00 usec         
+PLW1        90.00000000 W            
+SFO2        400.0319820 MHz          
+NUC2                 1H              
+CPDPRG[2             cw              
+PLW2     0 W            
+PLW12       20.00000000 W            
+
+F2 - Processing parameters
+SI                 4096              
+SF          161.9349825 MHz          
+WDW                  EM              
+SSB      0              
+LB                20.00 Hz           
+GB       0              
+PC                 1.00              

@@ -1,0 +1,16 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/Bsubtilis_2H_20200818/1004/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-08-18 14:19:43.886 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <acquisition in progress>)
+(   2,<2020-08-18 14:35:47.390 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <convdta from       4 "Bsubtilis_2H_20200818" "C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr"
+       data hash MD5: 39858
+       9D 46 30 3D B7 89 1E AB F7 6E FF D7 A9 D4 65 B2>)
+##END=
+
+$$ hash MD5
+$$ B2 8B 49 49 B5 5D A1 EE 9B BC C4 E9 6F CC 2B 27

@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/201806-DPPC-19F-PA/11/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-08-13 16:11:56.276 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2018-08-13 16:11:30.296 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       B1 AA E6 01 9F 90 2B 1B DA B6 05 51 12 DB 67 D6
+       data hash MD5: 4K
+       10 F2 1A 9A 76 D8 37 70 AF FD 1C 2E 47 6C 66 B0>)
+(   2,<2018-08-13 16:11:59.567 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       em LB = 10 SI = 4K 
+       data hash MD5: 4K
+       0C 27 32 F3 6F 13 5A 4B 78 24 3D 2D 49 F2 39 ED>)
+(   3,<2018-08-13 16:11:59.661 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ls NSP = 4 
+       data hash MD5: 4K
+       09 81 03 BC 06 D0 8B F3 71 BA FC 63 63 7F 21 FA>)
+(   4,<2018-08-13 16:11:59.801 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ft FT_mod = 6 PKNL = 1 SI = 4K 
+       data hash MD5: 4K
+       4D 67 0E 42 6C 77 0E C8 CB D0 2F 07 E4 B0 A3 3E>)
+(   5,<2018-08-13 16:11:59.895 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk PHC0 = -70.8 PHC1 = 0 
+       data hash MD5: 4K
+       37 1A 4C E1 ED 8D 9D C5 E8 20 E0 64 5E D2 C3 DA>)
+(   6,<2018-08-13 16:11:59.989 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <absd n ABSG = 5 
+       data hash MD5: 4K
+       61 21 6F 8B A2 86 B4 71 8D 87 32 7A 16 3F DE 78>)
+(   7,<2018-08-13 16:12:07.882 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk fgphup PHC0 = 167.2 PHC1 = 0 
+       data hash MD5: 4K
+       78 36 B8 FF FA B7 1D 2F 7C D1 19 B1 79 B6 2B 06>)
+##END=
+
+$$ hash MD5
+$$ A1 15 D8 DA 20 F3 2E AA DA 8A 4C FB B3 9B 34 0E

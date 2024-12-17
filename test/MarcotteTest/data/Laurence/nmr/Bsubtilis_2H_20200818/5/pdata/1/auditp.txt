@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/Bsubtilis_2H_20200818/5/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-08-18 15:16:12.680 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <acquisition in progress>)
+(   2,<2020-08-18 15:16:56.613 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       em BC_mod = 2 LB = 100 TDeff = 16K SI = 32K 
+       data hash MD5: 32K
+       18 EA 0F D4 DB EA E3 7D 36 1A C2 A3 F8 35 32 F8>)
+(   3,<2020-08-18 15:16:56.675 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ls NSP = 22 
+       data hash MD5: 32K
+       1F C3 67 CE CC 26 16 7A 60 E8 95 AB 59 58 D3 AA>)
+(   4,<2020-08-18 15:16:56.738 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       93 17 A3 F3 5F 46 55 22 8A BC 2A 36 14 32 ED 0C>)
+(   5,<2020-08-18 15:16:56.816 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk PHC0 = 148.95 PHC1 = 0 
+       data hash MD5: 32K
+       6E 16 A6 B6 B0 37 B2 AA E5 97 BB FF 6F E9 04 A4>)
+(   6,<2020-12-03 13:57:11.382 -0500>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=B. subtilis (0.05 mM) - 3
+       Pa-d31(6.88mg) + OA(6.75mg)  (23/052019) + 45.8mg DPC 122.6+mL (Vol. plus bas)
+       Lavage: (2x Saline+ saline dep)
+       Mid-log DO 1.928 (2h30)
+       Culture 2019/07/03 - Rotor 111.7mg (vide 658.7)
+       90-180; tau=100 us; MAS=10kHz
+       P1=4 us; P2=8 us; PLW1=230.14 W
+       T=310 K
+       1Kscans (17min)
+       (+15 min ajustement)TITLE_END
+       data hash MD5: 32K
+       6E 16 A6 B6 B0 37 B2 AA E5 97 BB FF 6F E9 04 A4>)
+##END=
+
+$$ hash MD5
+$$ B8 5D 61 B6 EE 88 29 0F 46 A1 A2 83 0E 1F 13 84

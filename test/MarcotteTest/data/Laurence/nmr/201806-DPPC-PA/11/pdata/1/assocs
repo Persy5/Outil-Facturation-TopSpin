@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2018-07-06 11:51:10.724 -0400  nmrsu@AVIII400HD
+$$ C:/Bruker/TopSpin3.2/Marcotte/data/Laurence/nmr/201806-DPPC-PA/11/pdata/1/assocs
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\dirdata.exe
+##$MULTDISP= <C:\Bruker\TopSpin3.2\Marcotte\data\Dror\nmr\201801-RPE-P35\220\pdata\1>
+##END=

@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/Bsubtilis_2H_20200818/1003/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-08-18 14:19:43.480 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2020-08-18 14:02:01.631 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       2A 4D 9E D0 BB 94 48 26 14 B9 9F FB 27 6C C8 31
+       data hash MD5: 39898
+       64 13 86 E4 E9 C9 1C 74 80 76 B3 82 5B 7D AC 8D>)
+(   2,<2020-08-18 14:34:42.213 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <convdta from       3 "Bsubtilis_2H_20200818" "C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr"
+       data hash MD5: 39858
+       58 EC 2C 25 A4 FB 65 A4 28 1F C4 15 40 45 F6 4E>)
+(   3,<2020-08-18 14:34:47.003 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       em BC_mod = 2 LB = 100 TDeff = 16344 SI = 32K 
+       data hash MD5: 32K
+       3C C0 6D 4A E0 7F 8A 5B 4A 80 C6 D9 25 45 50 09>)
+(   4,<2020-08-18 14:34:47.096 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ls NSP = 32 
+       data hash MD5: 32K
+       F0 D4 FE FA 05 EF 6F 8E 0D C2 1A BE D9 C4 C9 95>)
+(   5,<2020-08-18 14:34:47.237 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       52 13 70 7C ED 5E B7 25 96 2F C8 F5 C5 06 CD 8C>)
+(   6,<2020-08-18 14:34:47.346 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk PHC0 = 148.95 PHC1 = 0 
+       data hash MD5: 32K
+       BB D7 F2 9E 57 B4 C1 22 07 7F 30 83 1D 3F 08 A5>)
+(   7,<2020-08-18 14:35:01.011 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk fgphup PHC0 = -54.06785 PHC1 = -584.8 
+       data hash MD5: 32K
+       84 DD 9E 53 6B 6F 30 AE 88 00 BC 24 E5 EE 0D A1>)
+##END=
+
+$$ hash MD5
+$$ 44 79 7E C1 42 6E 6B 21 9E 0E D0 03 2D 3A A0 DF

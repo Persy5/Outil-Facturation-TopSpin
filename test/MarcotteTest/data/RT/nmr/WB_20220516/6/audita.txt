@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Bruker/TopSpin3.5pl7/Marcotte/data/RT/nmr/WB_20220516/6/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-05-17 09:32:32.192 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2022-05-17 09:31:53.337 -0400,
+	POWCHK enabled, PULCHK disabled,
+       terminated by command 'halt'
+       configuration hash MD5:
+       FB 29 C7 7F C6 55 62 E6 06 2F AA DA A9 1F 6B AE
+       data hash MD5: 600
+       87 FD 71 3B FA 74 AD DA 61 86 8A F8 24 2F 27 9D>)
+(   2,<2022-05-17 09:33:09.507 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <continuing acquisition>)
+(   3,<2022-05-17 09:54:13.435 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <continue with go
+	started at 2022-05-17 09:33:09.507 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       FB 29 C7 7F C6 55 62 E6 06 2F AA DA A9 1F 6B AE
+       data hash MD5: 600
+       9C D9 C2 1E B3 9B E4 99 01 DE 67 FB F5 AD 08 0C>)
+##END=
+
+$$ hash MD5
+$$ AE 77 37 66 D4 C6 E5 C2 E2 43 7C 77 BA A2 AB AB

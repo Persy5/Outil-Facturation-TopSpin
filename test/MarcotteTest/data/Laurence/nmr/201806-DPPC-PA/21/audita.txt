@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Bruker/TopSpin3.2/Marcotte/data/Laurence/nmr/201806-DPPC-PA/21/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-06-29 11:45:59.471 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2018-06-29 11:45:08.987 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       79 F8 E7 63 2E 19 D5 12 85 C4 DF 83 3C EB 7D 68
+       data hash MD5: 16K
+       98 DD 6F 2F 1C 6B 3B B3 A0 E2 1B 79 19 11 A9 2B>)
+##END=
+
+$$ hash MD5
+$$ 2C CA 38 9F 2C 6B AC F7 67 46 1C 11 69 4B 17 BD

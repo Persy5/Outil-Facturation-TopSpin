@@ -1,0 +1,83 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/201806-DPPC-PA/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-06-29 11:47:56.978 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2018-06-29 11:46:59.754 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       79 F8 E7 63 2E 19 D5 12 85 C4 DF 83 3C EB 7D 68
+       data hash MD5: 16K
+       88 92 EF 7C 57 99 6D DA 15 EF 1B F2 BF 0A BF 71>)
+(   2,<2018-06-29 11:49:06.417 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 20 FT_mod = 6 PKNL = 1 PHC0 = -76.4 PHC1 = 0 SI = 8K 
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+(   3,<2018-07-06 11:50:12.720 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=20C
+       MAS 5kHz
+       HPDEC 31P
+       
+       4mm rotor full of 85.5mg of concentrated horse RBC ghostss + 1H palmitic acid added with DPC using new "Marcotte" protocol
+       prepared by Vicky 28/06/2018TITLE_END
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+(   4,<2018-07-06 11:50:14.358 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=20C
+       MAS 5kHz
+       HPDEC 31P
+       
+       4mm rotor full of 85.5mg of concentrated horse RBC ghostss + 1H palmitic acid added with DPC using new "Marcotte" protocol
+       prepared by Vicky 28/06/2018TITLE_END
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+(   5,<2018-07-06 11:50:33.329 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=20C
+       MAS 5kHz
+       31P HPDEC 
+       
+       4mm rotor full of 85.5mg of concentrated horse RBC ghostss + 1H palmitic acid added with DPC using new "Marcotte" protocol
+       prepared by Vicky 28/06/2018TITLE_END
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+(   6,<2018-07-06 11:50:33.750 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=20C
+       MAS 5kHz
+       31P HPDEC 
+       
+       4mm rotor full of 85.5mg of concentrated horse RBC ghostss + 1H palmitic acid added with DPC using new "Marcotte" protocol
+       prepared by Vicky 28/06/2018TITLE_END
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+(   7,<2018-07-06 11:57:41.689 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=20C
+       MAS 5kHz
+       31P HPDEC
+       
+       4mm rotor full of 85.5mg of concentrated DPPC + 1H palmitic acid
+       prepared by Laurence 29/06/2018TITLE_END
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+(   8,<2018-07-06 11:57:44.949 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=T=20C
+       MAS 5kHz
+       31P HPDEC
+       
+       4mm rotor full of 85.5mg of concentrated DPPC + 1H palmitic acid
+       prepared by Laurence 29/06/2018TITLE_END
+       data hash MD5: 8K
+       4F B9 AB 96 87 C8 2B 1C 9D 3D 70 9E E4 A6 87 93>)
+##END=
+
+$$ hash MD5
+$$ E6 A9 DE 0E 75 02 01 02 E4 55 12 18 FB 82 BB AB

@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/Bsubtilis_2H_20200818/1001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-08-18 12:54:59.943 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2020-08-18 12:37:19.364 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       2A 4D 9E D0 BB 94 48 26 14 B9 9F FB 27 6C C8 31
+       data hash MD5: 39898
+       D3 6E 1D D0 2B 2E 5A 58 47 36 61 9E B9 BE 92 EE>)
+(   2,<2020-08-18 14:02:58.682 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <convdta from       1 "Bsubtilis_2H_20200818" "C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr"
+       data hash MD5: 39858
+       FC AF 89 48 F1 6E E8 3C 84 40 C9 D5 84 D7 24 3E>)
+(   3,<2020-08-18 14:04:05.981 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       em BC_mod = 2 LB = 25 TDeff = 16344 SI = 32K 
+       data hash MD5: 32K
+       CB 90 08 71 E7 36 C0 37 08 A5 52 F1 83 90 2A 31>)
+(   4,<2020-08-18 14:04:06.043 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ls NSP = 32 
+       data hash MD5: 32K
+       17 26 8E 71 CA A0 C1 8A DB C9 73 64 03 39 6C 6C>)
+(   5,<2020-08-18 14:04:06.153 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       D2 D5 1A 7E 0B 5E 64 67 6F 7C 49 D0 D6 06 21 EF>)
+(   6,<2020-08-18 14:04:06.215 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk PHC0 = 148.95 PHC1 = 0 
+       data hash MD5: 32K
+       A9 D3 03 59 76 CC 8F 11 F5 FE 18 2E EE C6 1B F3>)
+(   7,<2020-08-18 14:04:33.203 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk fgphup PHC0 = -12.75725 PHC1 = -685.2 
+       data hash MD5: 32K
+       B8 C8 FC 70 77 26 95 C3 76 69 21 9A FD DF 09 BB>)
+##END=
+
+$$ hash MD5
+$$ A3 EA 93 C4 B4 C1 65 74 65 D8 06 28 B9 7C 72 67

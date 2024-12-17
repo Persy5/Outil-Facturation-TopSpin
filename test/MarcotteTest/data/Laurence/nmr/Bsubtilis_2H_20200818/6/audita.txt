@@ -1,0 +1,19 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Bruker/TopSpin3.2/Marcotte/data/Laurence/nmr/Bsubtilis_2H_20200818/6/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-08-18 16:23:19.681 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2020-08-18 15:35:36.515 -0400,
+	POWCHK disabled, PULCHK disabled,
+       terminated by command 'halt'
+       configuration hash MD5:
+       2A 4D 9E D0 BB 94 48 26 14 B9 9F FB 27 6C C8 31
+       data hash MD5: 39898
+       0F 0B 2D D5 2E 6B D0 23 BC 54 96 06 A8 6F E3 FF>)
+##END=
+
+$$ hash MD5
+$$ 6C FB D7 3F 3D 2F 67 60 16 71 21 92 94 E2 32 CE

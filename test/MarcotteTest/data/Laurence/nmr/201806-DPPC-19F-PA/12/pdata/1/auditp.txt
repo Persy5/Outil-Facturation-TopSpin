@@ -1,0 +1,54 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Bruker\TopSpin3.2\Marcotte\data\Laurence\nmr/201806-DPPC-19F-PA/12/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-08-13 16:14:11.251 -0400>,<nmrsu>,<AVIII400HD>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2018-08-13 16:12:31.612 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       B1 AA E6 01 9F 90 2B 1B DA B6 05 51 12 DB 67 D6
+       data hash MD5: 4K
+       90 9F 7D 4D B1 4E D9 8A 2D A8 F0 1C EC 1C C3 D1>)
+(   2,<2018-08-13 16:14:12.998 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       em LB = 10 SI = 4K 
+       data hash MD5: 4K
+       E8 27 7C 32 A1 61 E0 6F A3 F2 74 DB D4 52 A4 E6>)
+(   3,<2018-08-13 16:14:13.092 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ls NSP = 4 
+       data hash MD5: 4K
+       97 C9 5F 3F 4C 7F E6 56 A7 59 F1 9D 3D 22 99 89>)
+(   4,<2018-08-13 16:14:13.232 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <ft FT_mod = 6 PKNL = 1 SI = 4K 
+       data hash MD5: 4K
+       79 2C B2 45 39 76 95 5A F9 60 ED 89 E3 6C F6 2D>)
+(   5,<2018-08-13 16:14:13.341 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk PHC0 = 96.39999 PHC1 = 0 
+       data hash MD5: 4K
+       3C 01 9D 04 1C 42 5A 2A A9 3A BE E1 91 86 12 D5>)
+(   6,<2018-08-13 16:14:13.435 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <absd n ABSG = 5 
+       data hash MD5: 4K
+       F5 76 B5 43 DF 03 FF 92 BE D5 03 69 D6 ED 6C DA>)
+(   7,<2018-08-13 16:14:22.733 -0400>,<nmrsu>,<AVIII400HD>,<proc1d>,<TopSpin 3.5.7>,
+      <pk fgphup PHC0 = -74 PHC1 = 0 
+       data hash MD5: 4K
+       E1 50 3A 18 FA 0B AA 25 E3 51 29 13 78 41 54 BB>)
+(   8,<2018-08-13 16:52:33.485 -0400>,<nmrsu>,<AVIII400HD>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=19F (regle sur trifluoroethanol)
+       
+       echo MAS 10kHz; 45C
+       
+       4mm rotor full of 54.7 mg of concentrated DPPC + 19F palmitic acid liposomes
+       (probably 12 mg of DPPC; 1.5 mg of 19F PA; 41 mg of water)
+       prepared by Laurence 13/08/2018TITLE_END
+       data hash MD5: 4K
+       E1 50 3A 18 FA 0B AA 25 E3 51 29 13 78 41 54 BB>)
+##END=
+
+$$ hash MD5
+$$ A9 D1 B9 10 B3 20 6E 1E 96 58 AF CF 88 98 DD 3F

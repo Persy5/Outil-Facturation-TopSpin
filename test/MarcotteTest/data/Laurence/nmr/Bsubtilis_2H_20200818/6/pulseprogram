@@ -1,0 +1,71 @@
+# 1 "C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho"
+;DWsolidecho-2 for 2H MAS 02/2015
+;with ability to chose different p1 and p2 pulses
+;
+;TS3 / 03.06.2011
+;
+;checked by SEWE 03.06.2011
+;
+;90-90 solid echo sequence for wide line observation
+;better than Hahn echo especially when insufficiant (90) power
+;
+; In MAS experiments, echo delay is set to be an integer number of rotor periods
+; Acquisition starts after X degree pulse to be able to sample whole echo
+; Set parameter nsp equal to number of points before echo-top
+; digmod: digital; dspfirm: smooth
+; phc0=0 and phc1=d6*swh*360 should give phased spectrum
+; sine bell or squared sine bell processing window functions may be used
+; for static experiments enter cnst31 = 1e6 and set l1 to desired echo delay in us
+;
+;parameters:
+;pl1 : RF power level for 90
+;p1 : 90 degree pulse
+;p2 : X degree pulse (90 in solid echo; 180 in Hahn echo or anything else)
+;d1 : recycle delay
+;d6 : first echo delay (calculated)
+;d7 : second echo delay (adjustable)
+;cnst31 : =MAS spin rate in Hz (or =1e6 for static)
+;l1 : # of rotor cycles (or tau in us)
+;ns : 8*n
+;zgoptns : -Ddec (if decoupling desired) or blank
+
+;$CLASS=Solids
+;$DIM=1D
+;$TYPE=direct excitation
+;$SUBTYPE=simple 1D
+;$COMMENT=90-90 solid echo sequence for wide line observation
+
+;"d6=((1s*l1)/cnst31)-p1"
+;cnst11 : to adjust t=0 for acquisition, if digmod = baseopt
+"acqt0=0";
+# 1 "mc_line 48 file C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho dc-measurement inserted automatically"
+
+    dccorr
+# 48 "C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho"
+# 48 "C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho"
+1 ze
+2 10m
+
+
+# 53 "C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho"
+  d1
+
+  (p1 pl1 ph1):f1
+
+# 59 "C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho"
+  d6
+
+  (p2 ph2):f1
+  d7
+  go=2 ph31
+
+# 67 "C:/Bruker/TopSpin3.5pl7/exp/stan/nmr/lists/pp/user/AAflexecho"
+  wr #0
+exit
+
+ph0=0
+ph1= 0 3 2 1 0 3 2 1
+ph2= 3 2 1 0 1 0 3 2
+ph31= 3 2 1 0 3 2 1 0
+
+;$id: $

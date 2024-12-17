@@ -1,0 +1,8 @@
+TITLE=19F (regle sur trifluoroethanol)
+
+echo static 45C
+20k (17h)
+
+4mm rotor full of 54.7 mg of concentrated DPPC + 19F palmitic acid liposomes
+(probably 12 mg of DPPC; 1.5 mg of 19F PA; 41 mg of water)
+prepared by Laurence 13/08/2018TITLE_END
