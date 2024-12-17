@@ -11,3 +11,7 @@ Installation
 2.Double-Cliquez sur main.exe
 
 3.Attendez 1 minute et le logiciel s'ouvrira
+
+Utilisation :
+
+Voir le pdf guide_utilisation.pdf pour consulter le guide d'utilisation de ce programme
